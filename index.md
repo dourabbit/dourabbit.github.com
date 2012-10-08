@@ -5,7 +5,7 @@ tagline: open source
 ---
 {% include JB/setup %}
 
-## Pathtracing Renderer <https://localhost:4000/projMeToo/index.html>
+## Pathtracing Renderer <http://dourabbit.github.com/projMeToo/index.html>
 
 
 
